@@ -1,13 +1,15 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
 import Hero from '../components/hero'
+import Features from '../components/Features'
 
 const Landing = () => {
   return (
     <main>
         <Navbar/>
         <Hero/>
-    </main>
+        <Features/>
+        </main>
   )
 }
 
