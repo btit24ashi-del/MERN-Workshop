@@ -6,8 +6,8 @@ import Features from '../components/Features'
 const Landing = () => {
   return (
     <main>
-        <Navbar/>
-        <Hero/>
+        <Navbar/>  
+        <Hero/>   
         <Features/>
         </main>
   )
