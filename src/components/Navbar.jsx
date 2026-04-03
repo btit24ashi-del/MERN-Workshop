@@ -13,7 +13,7 @@ function Navbar() {
             <a href="/about">About</a>
             <a href="/contact">Contact</a>
         </div>
-            <button className='bg-black text-white rounded-3xl px-7 py-2 hover:bg-white hover:text-black cursor-grabbing'>Chat Page</button>
+            <button className='bg-blk text-white rounded-3xl px-7 py-2 hover:bg-white hover:text-black cursor-grabbing'>Chat Page</button>
             </div>
     </header>
   )

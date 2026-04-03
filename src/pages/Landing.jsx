@@ -1,11 +1,12 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
+import Hero from '../components/hero'
 
 const Landing = () => {
   return (
     <main>
         <Navbar/>
-        <h1>Welcome to ISMT Chat</h1>
+        <Hero/>
     </main>
   )
 }
